@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="13319011-4ee5-4b95-9cf9-dc33a5f3168f" name="Ocelot" url="http://ocelot.aul.fiu.edu">
+        <fileTransfer host="ocelot.aul.fiu.edu" port="22" rootFolder="/a/buffalo.cs.fiu.edu./disk/jccl-002/homes/lbauz003" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
